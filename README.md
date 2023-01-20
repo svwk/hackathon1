@@ -28,6 +28,7 @@
 - [TensorFlow](https://www.tensorflow.org/).
 - [NumPy](https://numpy.org/).
 - [Matplotlib](https://matplotlib.org/).
+- [Scikit-learn](https://scikit-learn.org/stable/).
   
   **Доля верных ответов на тестовых данных, в процентах:(85%)**
   
